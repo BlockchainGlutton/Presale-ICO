@@ -1,0 +1,149 @@
+.noti-icon .badge {
+  left: 23px;
+}
+.mt-2 {
+  margin-top: 20px !important;
+}
+
+.dataTables_filter,
+.dataTables_paginate {
+  float: right;
+}
+
+.rdw-editor-main {
+  border: 1px solid #eeeef5;
+  height: 239px;
+}
+.dz-message {
+  text-align: center;
+  padding: 100px;
+}
+.fcYNFc {
+  background-color: #ffffff !important;
+}
+.task-box {
+  border: 1px solid #e1e1e6;
+}
+.react-datepicker-wrapper {
+  width: 100% !important;
+}
+
+.ReactModal__Overlay {
+  z-index: 1001 !important;
+}
+
+.fc-event .fc-content {
+  padding: 5px;
+  color: #fff;
+}
+.chat-conversation .right .conversation-list {
+  margin-right: 15px;
+}
+
+.external-event {
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.rangeslider-horizontal .rangeslider__fill {
+  background-color: #7cb342 !important;
+}
+
+img.logo{
+  display: inline-block!important;
+  margin: 0px 5px 0px 0px;
+}
+.logo-title{
+  font-weight: bold;
+  vertical-align: middle;
+}
+
+#countdown-panel{
+  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 20%);
+  backdrop-filter: blur(5px);
+}
+.hardcap{
+  margin-bottom: 1.5rem;
+}
+#timeline-carousel div.col-md-4{
+  text-align: center;
+}
+.client-images {
+  img {
+    margin: 0px auto!important;
+  }
+}
+#features .img-fluid{
+  max-width: 50%!important;
+}
+.basic-color{
+  color: #6B8BFF;
+}
+@media (max-width: 992px){
+  .wallet-connect-btn{
+    margin-bottom: 1em;
+  }
+}
+.modal-body ul{
+ padding : 0px;
+}
+.modal-body ul li{
+  display: flex;
+  justify-content: space-between;
+  line-height: 2em;
+}
+.modal-body ul li span{
+  display: inline-block;
+}
+.section{
+  background-color: #000e1c!important;
+}
+.hori-timeline .events .event-list .event-down-icon .down-arrow-icon{
+  background-color: transparent;
+}
+.card{
+  background-color: #000e1c!important;
+}
+.custom-accordion .accordion-list{
+  background-color: #000e1c!important;
+}
+.custom-accordion .accordion-list .accor-plus-icon{
+  background-color: #000e1c!important;
+}
+.custom-accordion .card-body{
+  color: white;
+}
+h1,h3,h4,h5{
+  color: #6AB9A5;
+}
+.text-muted{
+  color: white!important;
+}
+.navigation.nav-sticky{
+  background-color: #000e1c!important;
+}
+.modal-content{
+  background-color: #000e1c!important;
+  border-color: #6AB9A5;
+}
+.modal-body{
+  color: white;
+}
+.modal-body, .modal-header, .modal-footer{
+  border-color: #6AB9A5;
+}
+.modal-footer .btn-secondary{
+  background-color: #6AB9A5;
+  border-color: #6AB9A5;
+}
+.colored-text{
+  color: #6AB9A5;
+}
+.small-title{
+  color: #6AB9A5;
+}
+.small-header{
+  color: white;
+  font-size: 16px;
+}
